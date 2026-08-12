@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "D:/68010070/fpga/LabFPGA/src/LED.v",
+  "InstLine" : 1,
+  "InstName" : "led",
+  "ModuleFile" : "D:/68010070/fpga/LabFPGA/src/LED.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "led"
+ }
+]
